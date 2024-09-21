@@ -1,0 +1,28 @@
+.navbar{
+    height: 70px;
+}
+
+.nav-item{
+    border-style: solid;
+    border-color: #212529;
+    margin: 4px;
+    text-decoration: none;
+}
+
+.nav-item a{
+    color: black;
+    text-decoration: none;
+}
+
+.nav-item:hover{
+    background-color: #212529;
+    animation: none;
+}
+
+.nav-item:hover a{
+    color: white;
+}
+
+.collapse{
+    background-color: #0DCAF0;
+}
